@@ -59,7 +59,6 @@ It wraps around the alphabet and preserves the case.
 ## 👤 Author
 
 **Abhishek**  
-🔗 [GitHub](https://github.com/117ABHISHEK)
 
 ---
 
